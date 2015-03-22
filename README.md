@@ -10,6 +10,8 @@ Tabelka 1:
 Ta sama tabelka w HTML:
 
 <table>
-  <tr><td>A <td>B
-  <tr><td>C <td>D
+  <tr><td><td>GHM<td>AsciiDoc<td>RST
+  <tr><td>h1<td>#<td>?<td>?
 </table>
+
+http://www.html5rocks.com/en/
