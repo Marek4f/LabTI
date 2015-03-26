@@ -1,0 +1,34 @@
+|=======
+.1+^.^|*Godzina*| image:images/tvp1.png[] | image:images/tvp2.png[] | image:images/polsat.png[] | image:images/tvn.png[]
+.2+^.^|*6:00*| +06:10+ Świat się kręci .2+^.^|+06:05+ M jak miłość odc. 752 _(serial, Polska)_ .4+^.^|+06:00+ Nowy dzień z Polsat News .2+^.^|+06:10+ Mango _(Telezakupy)_ | +06:55+ Info poranek
+.2+^.^|*7:00* .2+^.^|+07:45+ Gość poranka .2+^.^|+07:05+ M jak miłość odc. 753 _(serial, Polska)_ |+07:15+ Detektywi odc. 969 _(serial, Polska)_ | +07:50+ Doradca smaku
+.4+^.^|*8:00*| +08:00+ Wiadomości .6+^.^|+08:00+ Pytanie na śniadanie .4+^.^|+08:00+ Trudne sprawy s. 9 odc. 14 _(serial, Polska)_ .6+^.^|+08:00+ Dzień dobry TVN |
++08:10+ Pogoda poranna |+08:15+ Polityka przy kawie |+08:50+ Jaka to melodia? _(rozrywka, Polska)_
+.2+^.^|*9:00*| +09:20+ Klan odc. 2720 _(serial, Polska)_ | +09:00+ Malanowski i Partnerzy s. 4 odc. 162 _(serial, Polska)_ |
++09:50+ Ojciec Mateusz odc. 134 _(serial, Polska)_ | +09:30+ Malanowski i Partnerzy s. 4 odc. 163 _(serial, Polska)_
+.1+^.^|*10:00*  .2+^.^| +10:50+ Wspaniałe stulecie odc. 100 _(serial, Turcja)_ | +10:50+ Barwy szczęścia odc. 1260 _(serial, Polska)_ |+10:00+ Dzień, który zmienił moje życie s. 3 odc. 14 _(serial, Polska)_ | +10:55+ Na Wspólnej odc. 2037 _(serial, Polska)_
+.1+^.^|*11:00*|+11:25+ Na dobre i na złe odc. 497 _(serial, Polska)_ | +11:00+ Dlaczego ja? odc. 423 _(serial, Polska)_ | +11:25+ Szkoła odc. 92 _(serial, Polska)_
+.4+^.^|*12:00*|+12:00+ Wiadomości .4+^.^| +12:25+ Postaw na milion _(rozrywka, Polska)_ .4+^.^| +12:00+ Pielęgniarki s. 3 odc. 15 _(serial, Polska)_ .4+^.^| +12:25+ Szpital odc. 320 _(serial, Polska)_ |
++12:10+ Agrobiznes | +12:40+ Przepis dnia | +12:50+ Pod wodami Okawango _(dokument, Wielka Brytania)_
+.1+^.^|*13:00* .3+^.^|+13:55+ Autostrada do nieba odc. 52 _(serial, USA)_ |+13:20+ Nabożeństwo Kościoła ewangelicko-reformowanego w Bełchatowie _(dokument, Polska)_ |+13:00+ Trudne sprawy s. 9 odc. 15 _(serial, Polska)_ |+13:25+ Ugotowani s. 8 odc. 24 _(rozrywka, Polska)_
+.2+^.^|*14:00* |+14:15+ Licencja na wychowanie odc. 11 _(serial, Polska)_ |+14:00+ Pierwsza miłość odc. 2062 _(serial, Polska)_ .2+^.^|+14:00+ Ukryta prawda odc. 441 _(serial, Polska)_ |
++14:55+ Na sygnale odc. 10 _(serial, Polska)_ | +14:45+ Dzień, który zmienił moje życie s. 3 odc. 15 _(serial, Polska)_
+.3+^.^|*15:00* |+15:00+ Wiadomości .3+^.^|+15:20+ Rodzinka.pl odc. 46 _(serial, Polska)_ .3+^.^|+15:50+ Wydarzenia .3+^.^|+15:00+ Szkoła odc. 93 _(serial, Polska)_ |
++15:10+ Puchar Świata w Planicy - narciarstwo klasyczne .5+^.^|+16:00+ Puchar Świata w Planicy - narciarstwo klasyczne
+.4+^.^|*16:00* |+16:00+ Panorama - kraj |+16:10+ Pogoda .4+^.^|+16:00+ Rozmowy w toku odc. 2430 _(talk show, Polska)_ |
++16:15+ Pogoda - kraj |+16:15+ Interwencja |+16:20+ WOK - wszystko o kulturze .2+^.^|+16:30+ Malanowski i Partnerzy s. 14 odc. 702 _(serial, Polska)_ |+16:30+ XIX Festiwal Kabaretu w Koszalinie 2013 odc. 1 _(rozrywka, Polska)_
+.3+^.^|*17:00* |+17:15+ Teleexpress .3+^.^|+17:45+ WOK - wszystko o kulturze .3+^.^|+17:00+ Dlaczego ja? odc. 612 _(serial, Polska)_ .3+^.^|+17:00+ Ukryta prawda odc. 442 _(serial, Polska)_ |
++17:25+ Jaka to melodia? _(rozrywka, Polska)_ |+17:55+ Klan odc. 2721 (serial, Polska)
+.4+^.^|*18:00* .4+^.^|+18:30+ Świat się kręci |+18:00+ Panorama .2+^.^|+18:00+ Pierwsza miłość odc. 2063 _(serial, Polska)_ .4+^.^|+18:00+ Szpital odc. 321 _(serial, Polska)_ |
++18:30+ Sport-telegram |+18:40+ Pogoda .2+^.^|+18:50+ Wydarzenia |+18:50+ Jeden z dziesięciu _(rozrywka, Polska)_
+.4+^.^|*19:00* |+19:15+ Przepis dnia .4+^.^|+19:25+ Kocham kino _(dokument, Polska)_ |+19:20+ Sport |+19:00+ Fakty
+.3+^.^|+19:30+ Wiadomości |+19:25+ Pogoda |+19:35+ Sport .2+^.^|+19:30+ Świat według Kiepskich odc. 202 _(serial, Polska)_ |+19:45+ Pogoda |+19:50+ Uwaga!
+.4+^.^|*20:00* |+20:00+ Sport .4+^.^|+20:10+ O mnie się nie martw s. 2 odc. 3 _(serial, Polska)_ .6+^.^|+20:05+ Dancing with the Stars. Taniec z gwiazdami s. 3 odc. 3 _(rozrywka, Polska)_ .6+^.^|+20:00+ Shrek _(film animowany, USA)_ |
++20:10+ Pogoda |+20:15+ Pogoda dla kierowców |+20:25+ Talianka odc. 3 _(serial, Ukraina/Rosja)_
+.2+^.^|*21:00* .3+^.^|+21:30+ Tron: Dziedzictwo _(film sf, USA)_ |+21:05+ Rodzinka.pl odc. 135 _(serial, Polska)_ |+21:40+ Rodzinka.pl odc. 136 _(serial, Polska)_
+.1+^.^|*22:00* |+22:15+ Latający Klub II, czyli wieczór kabaretowy odc. 3 _(rozrywka, Polska)_ .2+^.^|+22:05+ Hancock _(film sensacyjny, USA)_ .2+^.^|+22:00+ Dziewczyna w czerwonej pelerynie _(horror, USA/Kanada)_
+.1+^.^|*23:00* |+23:45+ Zemsta s. 2 odc. 15 _(serial, USA)_ .2+^.^|+23:45+ Podwójna tożsamość _(film sensacyjny, USA)_
+.1+^.^|*0:00* .3+^.^|+00:35+ Kelnerzy II _(komedia, USA)_ .3+^.^|+00:00+ Must be the music - tylko muzyka s. 9 odc. 1 _(rozrywka, Polska)_ |+00:05+ Kuba Wojewódzki s. 9 odc. 16 _(talk show, Polska)_
+.2+^.^|*1:00* .3+^.^|+01:30+ Wyścig śmierci II _(film sensacyjny, Niemcy/RPA)_ |+01:10+ Uwaga! |+01:25+ Sekrety magii odc. 316 _(rozrywka, Polska)_
+.1+^.^|*2:00*|+02:10+ W garniturach odc. 2 _(serial, USA)_ |+02:00+ Tajemnice losu |+02:45+ Rozmowy w toku odc. 2430 _(talk show, Polska)_ |
+|=======
