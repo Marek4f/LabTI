@@ -1,5 +1,6 @@
+[width="80%,cols="5",options="header"]
 |=======
-.1+^.^|*Godzina*| image:images/tvp1.png[] | image:images/tvp2.png[] | image:images/polsat.png[] | image:images/tvn.png[]
+.1+^.^|*Godzina*| image:images/tvp1.png[height=35] | image:images/tvp2.png[height=35] | image:images/polsat.png[height=50] | image:images/tvn.png[height=50]
 .2+^.^|*6:00*| +06:10+ Świat się kręci .2+^.^|+06:05+ M jak miłość odc. 752 _(serial, Polska)_ .4+^.^|+06:00+ Nowy dzień z Polsat News .2+^.^|+06:10+ Mango _(Telezakupy)_ | +06:55+ Info poranek
 .2+^.^|*7:00* .2+^.^|+07:45+ Gość poranka .2+^.^|+07:05+ M jak miłość odc. 753 _(serial, Polska)_ |+07:15+ Detektywi odc. 969 _(serial, Polska)_ | +07:50+ Doradca smaku
 .4+^.^|*8:00*| +08:00+ Wiadomości .6+^.^|+08:00+ Pytanie na śniadanie .4+^.^|+08:00+ Trudne sprawy s. 9 odc. 14 _(serial, Polska)_ .6+^.^|+08:00+ Dzień dobry TVN |
